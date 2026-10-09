@@ -166,3 +166,4 @@ yarn-error.log*
 lerna-debug.log*
 
 **/workspaces/
+learning/
